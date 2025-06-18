@@ -35,8 +35,12 @@
 ## 📸 Screenshots
 
 > Add screenshots/gifs of:
+> ![image](https://github.com/user-attachments/assets/22616e57-ebc2-4462-8522-bfa00248bdd4)
+
 - Home Page
 - Interview Interface
+- ![image](https://github.com/user-attachments/assets/60a1326e-0cab-43a1-a7ae-d9556b3d9f8c)
+
 - Score Summary Page
 - Feedback Cards
 
